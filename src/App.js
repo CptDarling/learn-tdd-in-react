@@ -1,3 +1,6 @@
+import NewMessageForm from "./components/NewMessageForm";
 export default function App() {
-  return null;
+  return (
+      <NewMessageForm onSend={handleSend} />
+  )
 }
