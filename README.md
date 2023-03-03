@@ -10,4 +10,4 @@ Jest tests for the component were written and ran with `npm run test`.
 
 It was very easy to deploy to the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-The production version of this tutorial is at [learn-tdd-in-react](https://learn-tdd-in-react.vercel.app/).
+The production version of this tutorial is at [learn-tdd-in-react](https://learn-tdd-in-react-cptdarling.vercel.app/).
